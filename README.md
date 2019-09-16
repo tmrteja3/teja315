@@ -1,1 +1,2 @@
-# this is my Git firstcommit
+i# this is my Git firstcommit
+this is second commit by local
